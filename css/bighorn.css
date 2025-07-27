@@ -12456,9 +12456,9 @@ input[type="number"] {
   }
 }
 
-.main-footer--two .footer-widget--links-two {
+/* .main-footer--two .footer-widget--links-two {
   margin-left: 50px;
-}
+} */
 
 @media (max-width: 1199px) {
   .main-footer--two .footer-widget--links-two {
