@@ -12771,10 +12771,10 @@ input[type="number"] {
 }
 
 .main-footer--three .footer-widget--links-three {
-  margin-left: 60px;
+  margin-left: 10px;
 
   @media (max-width: 1399px) {
-    margin-left: 40px;
+    margin-left: 20px;
   }
 
   @media (max-width: 1199px) {
@@ -12783,10 +12783,10 @@ input[type="number"] {
 }
 
 .main-footer--three .footer-widget--contact {
-  margin-left: 70px;
+  margin-left: 10px;
 
   @media (max-width: 1399px) {
-    margin-left: 30px;
+    margin-left: 20px;
   }
 
   @media (max-width: 1199px) {
