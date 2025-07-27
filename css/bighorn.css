@@ -14651,3 +14651,24 @@ html {
     font-size: 1.5rem;
   }
 }
+
+/* footer issue fix */
+@media (max-width: 575.98px) {
+  .main-footer .container {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  .main-footer .row {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  .main-footer .col-md-6,
+  .main-footer .col-lg-3,
+  .main-footer .col-lg-4,
+  .main-footer .col-xl-3 {
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+  }
+}
